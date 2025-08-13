@@ -1,5 +1,5 @@
 ---
-title: "Multi-agent deep reinforcement learning for hyperspectral band selection with hybrid teacher guide"
+title: "Multi-Agent Deep Reinforcement Learning for Hyperspectral Band Selection with Hybrid Teacher Guide"
 collection: publications
 category: manuscripts
 permalink: /publication/2024-09-05-paper-title-number-2
