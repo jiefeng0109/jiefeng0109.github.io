@@ -1,5 +1,5 @@
 ---
-title: "CFDRM: Coarse-to-Fine Dynamic Refinement Model for Weakly Supervised Moving Vehicle Detection in Satellite Videos"
+title: "Feng J, Jiang Q, Zhang J, et al. CFDRM: Coarse-to-fine dynamic refinement model for weakly supervised moving vehicle detection in satellite videos[J]. IEEE Transactions on Geoscience and Remote Sensing, 2024, 62: 1-13."
 collection: publications
 category: manuscripts
 permalink: /publication/2024-05-21-paper-title-number-3
