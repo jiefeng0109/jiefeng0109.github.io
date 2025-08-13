@@ -1,8 +1,5 @@
 ---
-title: "Convolutional Neural Network Based on Bandwise-Independent Convolution and Hard Thresholding for Hyperspectral Band Selection"
+title: "Feng J, Chen J, Sun Q, et al. Convolutional neural network based on bandwise-independent convolution and hard thresholding for hyperspectral band selection[J]. IEEE transactions on cybernetics, 2020, 51(9): 4414-4428."
 collection: publications
 category: manuscripts
-permalink: /publication/2020-06-29-paper-title-number-17
-date: 2020-06-29
-venue: 'IEEE Transactions on Cybernetics'
 ---
