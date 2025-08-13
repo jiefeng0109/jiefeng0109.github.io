@@ -1,5 +1,5 @@
 ---
-title: "SA-MixNet: Structure-Aware Mixup and Invariance Learning for Scribble-Supervised Road Extraction in Remote Sensing Images"
+title: "**Feng J**, Huang H, Zhang J, et al. SA-MixNet: Structure-aware mixup and invariance learning for scribble-supervised road extraction in remote sensing images"
 collection: publications
 category: manuscripts
 permalink: /publication/2024-12-17-paper-title-number-1
