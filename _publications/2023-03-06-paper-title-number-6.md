@@ -1,8 +1,5 @@
 ---
-title: "SDANet: Semantic-Embedded Density Adaptive Network for Moving Vehicle Detection in Satellite Videos"
+title: "Feng J, Liang Y, Zhang X, et al. SDANet: Semantic-embedded density adaptive network for moving vehicle detection in satellite videos[J]. IEEE transactions on image processing, 2023, 32: 1788-1801."
 collection: publications
 category: manuscripts
-permalink: /publication/2023-03-06-paper-title-number-6
-date: 2023-03-06
-venue: 'IEEE Transactions on Image Processing'
 ---
