@@ -3,5 +3,4 @@ title: "Feng J, Huang H, Zhang J, et al. SA-MixNet: Structure-aware mixup and in
 collection: publications
 category: manuscripts
 permalink: /publication/2024-12-17-paper-title-number-1
-date: 2024-12-17
 ---
