@@ -81,7 +81,7 @@ I have been selected for multiple prestigious programs including the National Hi
 **Office**: School of Artificial Intelligence, Xidian University  
 **Address**: No. 266 Xinglong Section, Xifeng Road, Xi'an, Shaanxi Province, China 710126  
 **Email**: jiefeng@xidian.edu.cn | jiefeng0109@163.com  
-**Homepage**: [https://web.xidian.edu.cn/fengjie/](https://web.xidian.edu.cn/fengjie/)
+**Homepage**: [https://web.xidian.edu.cn/fengjie/](https://web.xidian.edu.cn/fengjie/) | [https://jiefeng0109.github.io/](https://jiefeng0109.github.io/)
 
 ---
 *I am actively recruiting graduate students in Computer Science and Technology, Computer Technology, and Artificial Intelligence. If you are interested in remote sensing, computer vision, or machine learning research, please feel free to contact me.*
