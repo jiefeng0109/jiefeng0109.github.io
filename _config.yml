@@ -25,7 +25,7 @@ author:
   avatar           : "profile.png"
   name             : "Jie Feng"
   pronouns         : # example: "she/her"  
-  bio              : "Professor at School of Artificial Intelligence, Xidian University. Research focus on computer vision, remote sensing data processing, and open-world large model learning."
+  bio              : "Professor at Xidian University. Young Changjiang Scholar (2025). Research focus on remote sensing video processing, multi-source image fusion, and hyperspectral analysis."
   location         : "Xi'an, China"
   employer         : "Xidian University"
   uri              : # URL
@@ -35,10 +35,11 @@ author:
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : # "https://scholar.google.com/citations?user=YOUR_ID" # Update with your Google Scholar profile
+  googlescholar    : "https://scholar.google.com/citations?user=G0DT_oYAAAAJ"
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : # "http://orcid.org/your-orcid-id" # Update with your ORCID
+  orcid            : "https://orcid.org/0000-0002-8032-7542"
+  dblp             : "https://dblp.org/pid/24/7003-3.html"
   semantic         : # URL
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=jie+feng" # Update with your PubMed profile
   researchgate     : # URL
