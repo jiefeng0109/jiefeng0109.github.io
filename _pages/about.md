@@ -9,7 +9,11 @@ redirect_from:
 
 ## Biography
 
-I am a Professor and Doctoral Supervisor at the School of Artificial Intelligence, Xidian University. I received my Ph.D. degree in Circuits and Systems from Xidian University in 2014 and B.S. degree in Electronic and Information Engineering from Chang'an University in 2008. My research focuses on remote sensing data processing under restricted conditions, particularly breaking through key technologies in spatiotemporal spectral representation of heterogeneous remote sensing data.
+I am a Professor and Doctoral Supervisor at the School of Artificial Intelligence, Xidian University. I received my Ph.D. degree in Electronic Science and Technology from Xidian University. My research is primarily focused on remote sensing data processing and interpretation for satellite and UAV applications.
+
+I have published over 80 academic papers, including more than 40 papers in CCF Class A journals and Chinese Academy of Sciences JCR Q1 journals, with 9 ESI highly cited/hot papers. I have also authored 2 monographs and have been consecutively selected for the "World's Top 2% Scientists" list by Stanford University. I serve as Principal Investigator for projects funded by the National Defense Science and Technology Innovation Special Zone and the Joint Fund of Equipment Pre-research and Ministry of Education.
+
+I have been selected for multiple prestigious programs including the National High-level Young Talents Program, Shaanxi Outstanding Young Scientists Fund, China Association for Science and Technology Young Talent Support Program, and Shaanxi Provincial Special Support Program for Young Top-notch Talents. I serve as Associate Editor for Frontiers in Imaging, Editorial Board Member for Remote Sensing, Council Member of the Young Scientists Club of China Institute of Electronics, Executive Area Chair Committee Member of VALSE, Area Chair for IGARSS 2023 and PRCV 2023/2024. I have received the Second Prize of Natural Science Award from China Automation Society and the Second Prize of Technology Progress Award from China Aerospace Science and Technology Corporation.
 
 ## Research Interests
 

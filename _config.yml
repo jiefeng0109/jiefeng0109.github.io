@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Jie Feng / Professor of Artificial Intelligence"
+title                    : "Jie Feng"
 title_separator          : "-"
 name                     : &name "Jie Feng"
 description              : &description "Professor at School of Artificial Intelligence, Xidian University, specializing in computer vision, remote sensing, and machine learning"
@@ -25,7 +25,7 @@ author:
   avatar           : "profile.png"
   name             : "Jie Feng"
   pronouns         : # example: "she/her"  
-  bio              : "Professor at Xidian University. Young Changjiang Scholar (2025). Research focus on remote sensing video processing, multi-source image fusion, and hyperspectral analysis."
+  bio              : "Professor at Xidian University. Research focus on remote sensing video processing, multi-source image fusion, and hyperspectral analysis."
   location         : "Xi'an, China"
   employer         : "Xidian University"
   uri              : # URL
