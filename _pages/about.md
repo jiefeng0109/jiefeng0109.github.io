@@ -23,10 +23,10 @@ I have been selected for multiple prestigious programs including the National Hi
 
 ## Recent Highlights
 
-- **Young Changjiang Scholar** (2025) - Ministry of Education
+- **National High-level Young Talents Program** (2025) 
 - **Shaanxi Provincial Fund for Distinguished Young Scholars** (2025)
 - **IEEE TGRS Best Reviewer Award** (2024)
-- **Top 2% Global Scientists List** (2023) - Stanford University
+- **World's Top 2% Scientists** (2023) - Stanford University
 - **100+ Academic Publications** including 48 IEEE Transactions and CCF A-class papers
 - **9 ESI Highly Cited/Hot Papers** with significant research impact
 
