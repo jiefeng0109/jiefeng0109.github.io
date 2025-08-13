@@ -29,7 +29,8 @@ author:
   location         : "Xi'an, China"
   employer         : "Xidian University"
   uri              : # URL
-  email            : "jiefeng@xidian.edu.cn" 
+  email            : "jiefeng@xidian.edu.cn"
+  cv               : "/files/CV-JieFeng.pdf" 
 
   # Academic websites
   academia         : # URL
