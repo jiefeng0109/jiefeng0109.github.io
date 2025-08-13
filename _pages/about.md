@@ -19,7 +19,7 @@ I am a Professor and Doctoral Supervisor at the School of Artificial Intelligenc
 
 ## Recent Highlights
 
-- **Young Changjiang Scholar** (2025) - Ministry of Education, China's most prestigious young talent program
+- **Young Changjiang Scholar** (2025) - Ministry of Education
 - **Shaanxi Provincial Fund for Distinguished Young Scholars** (2025)
 - **IEEE TGRS Best Reviewer Award** (2024)
 - **Top 2% Global Scientists List** (2023) - Stanford University
