@@ -1,8 +1,5 @@
 ---
-title: "Attention Multibranch Convolutional Neural Network for Hyperspectral Image Classification Based on Adaptive Region Search"
+title: "Feng J, Wu X, Shang R, et al. Attention multibranch convolutional neural network for hyperspectral image classification based on adaptive region search[J]. IEEE Transactions on Geoscience and Remote Sensing, 2020, 59(6): 5054-5070."
 collection: publications
 category: manuscripts
-permalink: /publication/2020-08-06-paper-title-number-16
-date: 2020-08-06
-venue: 'IEEE Transactions on Geoscience and Remote Sensing'
 ---
