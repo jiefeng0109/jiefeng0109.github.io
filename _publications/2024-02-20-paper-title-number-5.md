@@ -1,5 +1,5 @@
 ---
-title: "Class-Aligned and Class-Balancing Generative Domain Adaptation for Hyperspectral Image Classification"
+title: "Feng J, Zhou Z, Shang R, et al. Class-aligned and class-balancing generative domain adaptation for hyperspectral image classification[J]. IEEE Transactions on Geoscience and Remote Sensing, 2024, 62: 1-17."
 collection: publications
 category: manuscripts
 permalink: /publication/2024-02-20-paper-title-number-5
